@@ -4,7 +4,7 @@
 
 # To analyse an audio signal and remove noise
 
-# APPARATUS REQUIRED:  
+# APPARATUS REQUIRED:  bjhbj
 PC installed with SCILAB. 
 
 # PROGRAM: 
