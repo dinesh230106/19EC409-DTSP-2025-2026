@@ -7,7 +7,7 @@
 # APPARATUS REQUIRED:  
 PC installed with SCILAB. 
 
-# PROGRAM: 
+# PROGRAM: -
 
 
 // DISCRETE FOURIER TRANSFORM 
